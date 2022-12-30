@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Dey from India
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python and Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on the projects I have uploaded for its betterment
 - 📫 How to reach me ... www.linkedin.com/in/vivek-dey-69385325b
 
 <!---
