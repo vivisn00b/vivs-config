@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vive1574&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="170" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vive1574&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="170" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivisn00b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivisn00b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
 ###
@@ -60,16 +60,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/vive1574/vive1574/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vivisn00b/vivisn00b/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/vive1574/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/vivisn00b/count.svg?"  />
 </div>
 
 ###
 <!---
-vive1574/vive1574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vivisn00b/vivisn00b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
