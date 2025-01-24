@@ -63,12 +63,6 @@
 <img src="https://raw.githubusercontent.com/vivisn00b/vivisn00b/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/vivisn00b/count.svg?"  />
-</div>
-
-###
 <!---
 vivisn00b/vivisn00b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
