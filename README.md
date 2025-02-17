@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋 My name is Vivek, and I'm a coding enthusiast and a Linux nerd!</h1>
+<h1 align="center">Hola! 👋 I'm Vivek—a passionate coder and die-hard Linux enthusiast!</h1>
 
 ###
 
